@@ -1,13 +1,12 @@
-# Trabalho WEBII - API com Node e Express
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
 </head>
 <body>
-  <h1>Rudhá Esmeraldo</h1>
+  <h1>Trabalho WEBII - API com Node e Express</h1>
+  <h2>Rudhá Esmeraldo</h2>
   <h3>Criação de uma API simples com Node e Express para uma atividade de Web II.</h3>
   <h2>Endpoints da API</h2>
   <ul>
